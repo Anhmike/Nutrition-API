@@ -1,0 +1,28 @@
+h1{
+border-bottom: 1px solid black;
+}
+.searchbox{
+  height: 20vh;
+  border: 1px solid black;
+}
+#searchinput{
+  margin-top: 15px;
+}
+.foodbox{
+  height: 50vh;
+  border: 1px solid black;
+  margin-top: 40px;
+  overflow-y: scroll;
+}
+#foodunderline{
+  border-bottom: 1px solid black;
+}
+.resultsbox{
+  margin-top: 50px;
+  height: 60vh;
+  border: 1px solid black;
+  overflow-y: scroll;
+}
+.cal{
+  color: red;
+}
